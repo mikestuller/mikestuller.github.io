@@ -12,7 +12,7 @@ I am an iOS developer interested in electronic music (specifically, making music
 
 ### Links
 
-- See my Privacy Policy
+- See my [Privacy Policy](/privacy)
 - Contact Me
 
 
