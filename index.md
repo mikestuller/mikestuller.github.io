@@ -1,6 +1,6 @@
 ## Who am I?
 
-I am an iOS developer interested in electronic music (specifically, making music with the iPad).
+I am an iOS developer interested in electronic music (specifically, in making music with the iPad).
 
 ### Current Projects
 
