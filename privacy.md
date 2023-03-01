@@ -1,7 +1,7 @@
 ## Privay Policy
 
-My apps do not collect or store private personal information from users.
+My apps do not collect collect, store, or transmit any personally identifiable information about you, such as your name, location, address, phone number or email address.
 
-It's as simple as that.
+Should there be any changes to this privacy policy, I will update this notice at that time.
 
-Should that change in the future (and I doubt it will), I will update this notice at that time.
+This privacy policy was last updated on March 1, 2023.
