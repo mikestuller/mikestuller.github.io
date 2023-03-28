@@ -1,4 +1,4 @@
-FAQ
+##FAQ
 
 Q: What is a Euclidean Rhythm?
 A: A Euclidean rhythm is a type of rhythm found in many musical styles.  To make a Euclidean rhythm, break up a time interval into equal-length steps. Then place a beat at the beginning of some of the steps.  If the beats are as evenly-spaced as possible, the pattern is a Euclidean Rhythm.
