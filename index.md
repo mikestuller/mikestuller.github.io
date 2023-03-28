@@ -8,7 +8,7 @@ I am an iOS developer interested in electronic music (specifically, in making mu
 
 ### My Apps on the App Store
 
-- _(nothing yet, but soon!)_
+- [Euclidium](/euclidium)
 
 ### Links
 
