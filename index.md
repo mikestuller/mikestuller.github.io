@@ -1,8 +1,8 @@
-## Who am I?
+### Who I am
 
 I am an iOS developer interested in electronic music (specifically, in making music with the iPad).
 
-### Current Projects
+### What I'm working on
 
 - dwLab, a Korg DW-8000 editor/librarian for iPads and iPhones
 
