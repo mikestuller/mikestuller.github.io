@@ -1,4 +1,8 @@
-## Euclidium FAQ
+## Euclidium
+
+[Euclidium on the App Store](https://apps.apple.com/us/app/euclidium/id6445823636)
+
+## FAQ
 
 - [What are Euclidean Rhythms?](#what-are-euclidean-rhythms)
 - [What is the MIDI Output Type?](#what-is-the-midi-output-type)
