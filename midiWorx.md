@@ -1,4 +1,4 @@
-## midiWorx
+![connect](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/40e018b9-a381-4c8e-b835-37cf7228c720)![connect](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/bcb6c174-a7d6-443c-8575-75086abbd417)## midiWorx
 
 ## Overview
 
@@ -27,3 +27,5 @@ Typically, a device like a keyboard or some other "MIDI controller" would be use
 ### More Details
 
 [TODO]
+
+![AppIcon1](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/868a5992-2879-4d71-9d72-889f4dcb1d41)
