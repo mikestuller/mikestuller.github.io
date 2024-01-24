@@ -1,4 +1,4 @@
-![connect](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/57e32021-6159-4fa6-850d-297e87982fa1)## midiWorx
+## midiWorx
 
 ![Uploading <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
@@ -86,6 +86,8 @@ MIDI stands for "Musical Instrument Digital Interface". It is the standard proto
 Typically, a device like a keyboard or some other "MIDI controller" would be used to generate and transmit MIDI messages to another device, such as a sound module. It is up to the sound module to generate and play the notes (the actual sounds) with the pitches and velocities specified by the messages.
 
 ### Getting Started
+
+![connect](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/57e32021-6159-4fa6-850d-297e87982fa1)
 
 [TODO]
 
