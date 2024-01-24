@@ -4,6 +4,7 @@ I am an iOS developer interested in electronic music (specifically, in making mu
 
 ### What I'm working on
 
+- [midiWorx](/midiWorx) (tentative title), a "virtual MIDI workbench" for iOS
 - dwLab, a Korg DW-8000 editor/librarian for iPads and iPhones
 
 ### My Apps on the App Store
