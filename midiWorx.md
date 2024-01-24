@@ -2,7 +2,7 @@
 
 ## Overview
 
-midiWorx is a "virtual MIDI workbench" for iOS. With midiWorx, you can create, modify, and direct MIDI messages -- among other things. It consists of many "modules" -- things like MIDI filters, MIDI note generators, and more. While most of the modules can be useful on their own or in small combinations, the most powerful aspect of midiWorx is its ability to flexibly combine modules by connecting them with each other however you want to.
+midiWorx is a "virtual MIDI workbench" for iOS. With midiWorx, you can create, modify, and direct MIDI messages -- among other things. midiWorx consists of many "modules" -- things like MIDI filters, MIDI note generators, and more. While most of the modules can be useful on their own or in small combinations, the most powerful aspect of midiWorx is its ability to flexibly combine modules by connecting them with each other however you want to.
 
 Here's an example: You could use a Midi In module to receive notes generated from an external keyboard. Then you could use a Note Splitter module to split the notes into a lower portion and an upper portion. You could then apply an Arpeggiator to only the upper portion, and a Transposer to transpose the the lower portion down an octave. Finally, you could use Midi Out modules to send the lower portion to a sound-generating app and the upper portion to an external synthesizer.
 
