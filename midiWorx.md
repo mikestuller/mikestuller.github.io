@@ -1,5 +1,68 @@
-## midiWorx
+![connect](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/57e32021-6159-4fa6-850d-297e87982fa1)## midiWorx
 
+![Uploading <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25"
+   height="25"
+   version="1.1"
+   viewBox="0 0 6.614583 6.614583"
+   id="svg838"
+   sodipodi:docname="connect.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs842" />
+  <sodipodi:namedview
+     id="namedview840"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="11.720245"
+     inkscape:cx="24.316898"
+     inkscape:cy="16.04062"
+     inkscape:window-width="1495"
+     inkscape:window-height="854"
+     inkscape:window-x="544"
+     inkscape:window-y="142"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg838"
+     inkscape:snap-object-midpoints="true" />
+  <circle
+     cx="7.2637267"
+     cy="0.80464619"
+     r="0.95467424"
+     id="circle1036"
+     transform="rotate(34.977028)"
+     style="stroke-width:0.0939085" />
+  <circle
+     transform="matrix(-0.81938195,-0.57324796,-0.57324796,0.81938195,0,0)"
+     cx="-1.9479399"
+     cy="0.82342762"
+     r="0.95467424"
+     id="circle1042"
+     style="stroke-width:0.0939085" />
+  <path
+     d="M 5.4905047,4.8232291 1.2231863,1.8606906"
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-width="0.368746"
+     id="path1044"
+     style="stroke-width:0.557189;stroke-miterlimit:4;stroke-dasharray:none"
+     sodipodi:nodetypes="cc" />
+</svg>
+connect.svg…]()
 
 
 ## Overview
@@ -24,12 +87,8 @@ Typically, a device like a keyboard or some other "MIDI controller" would be use
 
 ### Getting Started
 
-Connect: [connect](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/bcb6c174-a7d6-443c-8575-75086abbd417)
-
 [TODO]
 
 ### More Details
 
 [TODO]
-
-![AppIcon1](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/868a5992-2879-4d71-9d72-889f4dcb1d41)
