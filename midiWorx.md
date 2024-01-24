@@ -23,7 +23,7 @@ Typically, a device like a keyboard or some other "MIDI controller" would be use
 
 ### Getting Started
 
-![connect](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/57e32021-6159-4fa6-850d-297e87982fa1)
+Tap the connect icon (![connect](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/57e32021-6159-4fa6-850d-297e87982fa1)) to connect two nodes.
 
 [TODO]
 
