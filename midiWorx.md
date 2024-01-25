@@ -25,22 +25,22 @@ Typically, a device like a keyboard or some other "MIDI controller" would be use
 
 When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the "Add Module" (the one that looks like a "+" sign) to display the Module Browser. Here you choose modules to add to your project.
 
-Each module consists of two parts: a control panel, and a "node" where connections are made. When you connect two modules, you must choose which will be the "parent" module (the one sending MIDI messages) and which will be the "child" module (the one receiving the parent's messages).
+Each module consists of two parts: a control panel, and a "node" where connections to other modules are made. When you connect two modules, you must choose which one will be sending MIDI messages and which will be receiving the sender's messages.
 
-To connect one module to another, first select the parent module by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node (see below). Tap the connect button, then complete the connection by tapping the child module.
+To connect one module to another, first select the sending module by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node. Tap the connect button, then complete the connection by tapping the node of the receiving module.
 
 <figure>
   <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" width = "200"> 
   <figcaption>Node Buttons</figcaption>
 </figure>
 
-Here what the node buttons do:
+Here's what each node button does:
 * **Connect** Allows one module to send MIDI messages to another
-* **Bypass** Bypasses the selected module. MIDI messages received by the selected module will be passed directly to the selected module's children.
+* **Bypass** Bypasses the selected module. MIDI messages received by the selected module will be passed directly to its receivers.
 * **Disconnect** Removes a connection
 * **Choose Color** Allows you to change the color of the selected module
 * **Delete** Deletes the selected module
-* **Info** Shows information about the module
+* **Info** Shows information about the selected module
 
 
 ### More Details
