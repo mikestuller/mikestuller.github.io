@@ -23,8 +23,12 @@ Typically, a device like a keyboard or some other "MIDI controller" would be use
 
 ### Getting Started
 
+When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the "Add Module" (the one that looks like a "+" sign) to display the Module Browser. Here you choose modules to add to your project.
+
+Each module consists of two parts: a control panel, and a "node" where connections are made. When you connect two modules, you must choose which will be the "parent" module (the one sending MIDI messages) and which will be the "child" module (the one receiving the parent's messages). To connect one module to another, first select the "parent" module by tapping on its node or its control panel. When you select a module, a "button halo" appears around its node (see below). Tap the connect button, then complete the connection by tapping the child module.
 
 ![NodeButtonsDesc](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/a3114799-9f34-4cce-afaf-7b12d9e78f10)
+*Node Button Halo*
 
 [TODO]
 
