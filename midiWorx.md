@@ -29,7 +29,7 @@ Each module consists of two parts: a control panel, and a "node" where connectio
 
 To connect one module to another, first select the parent module by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node (see below). Tap the connect button, then complete the connection by tapping the child module.
 
-![NodeButtons](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/0b6ebf5d-e169-457f-8a91-ab39f4836ee0)
+<img src=https://github.com/mikestuller/mikestuller.github.io/assets/97295847/0b6ebf5d-e169-457f-8a91-ab39f4836ee0 width = "200">
 *Node Buttons*
 
 Here are the node buttons and what they do:
