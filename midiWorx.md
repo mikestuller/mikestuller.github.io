@@ -27,10 +27,10 @@ When you first launch midiWorx, you'll see a nearly blank screen because you hav
 
 Each module consists of two parts: a control panel, and a "node" where connections are made. When you connect two modules, you must choose which will be the "parent" module (the one sending MIDI messages) and which will be the "child" module (the one receiving the parent's messages).
 
-To connect one module to another, first select the parent module by tapping on its node or its control panel. When you select a module, a "button halo" appears around its node (see below). Tap the connect button, then complete the connection by tapping the child module.
+To connect one module to another, first select the parent module by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node (see below). Tap the connect button, then complete the connection by tapping the child module.
 
-![NodeButtonsDesc](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/a3114799-9f34-4cce-afaf-7b12d9e78f10)
-*Node Button Halo*
+![NodeButtons](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/5e7b4f90-1542-4f09-8904-42bf495dfe3d)
+*Node Buttons*
 
 Here are the halo buttons and what they do:
 * **Connect** Allows one module to send MIDI messages to another
