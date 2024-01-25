@@ -23,11 +23,11 @@ Typically, a device like a keyboard or some other "MIDI controller" would be use
 
 ### Getting Started
 
-When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the "Add Module" (the one that looks like a "+" sign) to display the Module Browser. Here you choose modules to add to your project.
+When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the "Add Module" (the one that looks like a "+" sign) to display the Module Browser. Here you choose modules to add to your project. For this example, choose the Piano Keyboard module. Then, also add an "Event Viewer" module. Now let's connect the two modules together.
 
-Each module consists of two parts: a control panel, and a "node" where connections to other modules are made. When you connect two modules, you must choose which one will be sending MIDI messages and which will be receiving the sender's messages.
+Each module consists of two parts: a control panel, and a "node" where connections to other modules are made. When you connect two modules, you must choose which one will be sending MIDI messages and which will be receiving the sender's messages. In our example, the Piano Keyboard will send messages to the Event Viewer.
 
-To connect one module to another, first select the sending module by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node. Tap the connect button, then complete the connection by tapping the node of the receiving module.
+To connect one module to another, first select the sending module (the Piano Keyboard) by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node. Tap the connect button (see figure), then complete the connection by tapping the node of the receiving module (the Event Viewer). Play some notes by tapping on the Piano Keyboard. You should see the Note On and Note Off MIDI messages in the Event Viewer's control panel.
 
 <figure>
   <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" width = "200"> 
