@@ -38,7 +38,7 @@ Here are the node buttons and what they do:
 * **Connect** Allows one module to send MIDI messages to another
 * **Bypass** Bypasses the selected module. MIDI messages received by the selected module will be passed directly to the selected module's children.
 * **Disconnect** Removes a connection
-* **Color** Allows you to change the color of the selected module
+* **Choose Color** Allows you to change the color of the selected module
 * **Delete** Deletes the selected module
 * **Info** Shows information about the module
 [TODO]
