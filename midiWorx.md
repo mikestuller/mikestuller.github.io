@@ -30,18 +30,18 @@ Each module consists of two parts: a control panel, and a "node" where connectio
 To connect one module to another, first select the parent module by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node (see below). Tap the connect button, then complete the connection by tapping the child module.
 
 <figure>
-  <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/0b6ebf5d-e169-457f-8a91-ab39f4836ee0" width = "200">
+  <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" width = "200"> 
   <figcaption>Node Buttons</figcaption>
 </figure>
 
-Here are the node buttons and what they do:
+Here what the node buttons do:
 * **Connect** Allows one module to send MIDI messages to another
 * **Bypass** Bypasses the selected module. MIDI messages received by the selected module will be passed directly to the selected module's children.
 * **Disconnect** Removes a connection
 * **Choose Color** Allows you to change the color of the selected module
 * **Delete** Deletes the selected module
 * **Info** Shows information about the module
-[TODO]
+
 
 ### More Details
 
