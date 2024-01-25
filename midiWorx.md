@@ -25,11 +25,20 @@ Typically, a device like a keyboard or some other "MIDI controller" would be use
 
 When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the "Add Module" (the one that looks like a "+" sign) to display the Module Browser. Here you choose modules to add to your project.
 
-Each module consists of two parts: a control panel, and a "node" where connections are made. When you connect two modules, you must choose which will be the "parent" module (the one sending MIDI messages) and which will be the "child" module (the one receiving the parent's messages). To connect one module to another, first select the "parent" module by tapping on its node or its control panel. When you select a module, a "button halo" appears around its node (see below). Tap the connect button, then complete the connection by tapping the child module.
+Each module consists of two parts: a control panel, and a "node" where connections are made. When you connect two modules, you must choose which will be the "parent" module (the one sending MIDI messages) and which will be the "child" module (the one receiving the parent's messages).
+
+To connect one module to another, first select the parent module by tapping on its node or its control panel. When you select a module, a "button halo" appears around its node (see below). Tap the connect button, then complete the connection by tapping the child module.
 
 ![NodeButtonsDesc](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/a3114799-9f34-4cce-afaf-7b12d9e78f10)
 *Node Button Halo*
 
+Here are the halo buttons and what they do:
+* **Connect** Allows one module to send MIDI messages to another
+* **Bypass** Bypasses the selected module. MIDI messages received by the selected module will be passed directly to the selected module's children.
+* **Disconnect** Removes a connection
+* **Color** Allows you to change the color of the selected module
+* **Delete** Deletes the selected module
+* **Info** Shows information about the module
 [TODO]
 
 ### More Details
