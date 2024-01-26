@@ -21,11 +21,17 @@ MIDI stands for "Musical Instrument Digital Interface". It is the standard proto
 
 Typically, a device like a keyboard or some other "MIDI controller" would be used to generate and transmit MIDI messages to another device, such as a synthesizer. It is up to the synthesizer to generate and play the notes (the actual sounds) with the pitches and velocities specified by the messages.
 
+### More About Modules
+
+Modules are the building blocks of a midiWorx project. There are modules that generate MIDI messages ("Sources"), modules that consume MIDI messages ("Destinations"), and modules that transform MIDI messages in some way or another ("Modifiers"). Some modules, like the Recorder, are both Sources and Destinations.
+
+Each module consists of two parts: a rectangular control panel, and a circular "node". The control panel is where you make adjustments to the various parameters of the module. The node is where you connect the module to other modules. The control panels are grouped together in a stack. You can drag the nodes around to place them wherever you want to.
+
+There is no limit to the number of connections a module can have, although some modules only allow input connections and some other modules only allow output connections.
+
 ### Getting Started
 
 When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the "Add Module" (the one that looks like a "+" sign) to display the Module Browser. Here you choose modules to add to your project. For this example, choose the Piano Keyboard module. Then, also add an "Event Viewer" module.
-
-Each module consists of two parts: a rectangular control panel, and a circular "node" where connections to other modules are made. You can drag the nodes around to place them wherever you want to.
 
 In order to connect two modules, you first have to decide which one will be sending MIDI messages and which one will be receiving the sender's messages. In our example, the Piano Keyboard will send messages to the Event Viewer.
 
