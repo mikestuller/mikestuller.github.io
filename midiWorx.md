@@ -3,7 +3,7 @@
 
 ## Overview
 
-midiWorx is a "virtual MIDI workbench" for iOS. With midiWorx, you can create MIDI messages, modify them, direct them, and more.
+midiWorx is a virtual MIDI workbench for iOS. With midiWorx, you can create MIDI messages, modify them, direct them, and more.
 
 midiWorx can be used:
   * as an aid to creativity, to spark new musical ideas.
@@ -27,11 +27,11 @@ When you first launch midiWorx, you'll see a nearly blank screen because you hav
 
 Each module consists of two parts: a rectangular control panel, and a circular "node" where connections to other modules are made. You can drag the nodes around to place them wherever you want to.
 
-When you connect two modules, you first have to decide which one will be sending MIDI messages and which will be receiving the sender's messages. In our example, the Piano Keyboard will send messages to the Event Viewer.
+When you connect two modules, you first have to decide which one will be sending MIDI messages and which one will be receiving the sender's messages. In our example, the Piano Keyboard will send messages to the Event Viewer.
 
-Select the sending module (the Piano Keyboard) by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node. Tap the "Connect" button (see figure), then complete the connection by tapping the node of the receiving module (the Event Viewer).
+Select the sending module (the Piano Keyboard) by tapping on its node. You'll see a ring of buttons appear around the node. Tap the "Connect" button (see below), then complete the connection by tapping the node of the receiving module (the Event Viewer).
 
-Now play some notes by tapping on the Piano Keyboard. You should see the Note On and Note Off MIDI messages in the Event Viewer's control panel.
+Now play some notes by tapping on the Piano Keyboard. You should see corresponding Note On and Note Off MIDI messages in the Event Viewer's control panel.
 
 <figure>
   <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" width = "200"> 
