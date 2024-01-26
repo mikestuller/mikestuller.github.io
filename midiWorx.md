@@ -31,7 +31,7 @@ In order to connect two modules, you first have to decide which one will be send
 
 Select the sending module (the Piano Keyboard) by tapping on its node. You'll see a ring of buttons appear around the node. Tap the "Connect" button (see below), then complete the connection by tapping the node of the receiving module (the Event Viewer).
 
-Now play some notes by tapping on the Piano Keyboard. You should see corresponding Note On and Note Off MIDI messages in the Event Viewer's control panel.
+Now play some notes by tapping on the Piano Keyboard. You should see corresponding Note On and Note Off MIDI messages displayed in the Event Viewer's control panel.
 
 <figure>
   <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" width = "200"> 
