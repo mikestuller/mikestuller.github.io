@@ -27,7 +27,7 @@ When you first launch midiWorx, you'll see a nearly blank screen because you hav
 
 Each module consists of two parts: a rectangular control panel, and a circular "node" where connections to other modules are made. You can drag the nodes around to place them wherever you want to.
 
-When you connect two modules, you first have to decide which one will be sending MIDI messages and which one will be receiving the sender's messages. In our example, the Piano Keyboard will send messages to the Event Viewer.
+In order to connect two modules, you first have to decide which one will be sending MIDI messages and which one will be receiving the sender's messages. In our example, the Piano Keyboard will send messages to the Event Viewer.
 
 Select the sending module (the Piano Keyboard) by tapping on its node. You'll see a ring of buttons appear around the node. Tap the "Connect" button (see below), then complete the connection by tapping the node of the receiving module (the Event Viewer).
 
