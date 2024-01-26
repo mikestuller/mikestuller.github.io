@@ -29,7 +29,7 @@ Each module consists of two parts: a rectangular control panel, and a circular "
 
 When you connect two modules, you first have to decide which one will be sending MIDI messages and which will be receiving the sender's messages. In our example, the Piano Keyboard will send messages to the Event Viewer.
 
-Select the sending module (the Piano Keyboard) by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node. Tap the connect button (see figure), then complete the connection by tapping the node of the receiving module (the Event Viewer).
+Select the sending module (the Piano Keyboard) by tapping on its node or its control panel. When you select a module, a ring of buttons appears around its node. Tap the "Connect" button (see figure), then complete the connection by tapping the node of the receiving module (the Event Viewer).
 
 Now play some notes by tapping on the Piano Keyboard. You should see the Note On and Note Off MIDI messages in the Event Viewer's control panel.
 
