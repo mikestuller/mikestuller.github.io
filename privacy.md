@@ -1,4 +1,4 @@
-## Privay Policy
+## Privacy Policy
 
 My apps do not collect, store, or transmit any personally identifiable information about you, such as your name, location, address, phone number or email address.
 
