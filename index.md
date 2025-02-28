@@ -1,4 +1,4 @@
-### Who I am
+### About Me
 
 I am an iOS developer interested in electronic music (specifically, in making music with the iPad).
 
