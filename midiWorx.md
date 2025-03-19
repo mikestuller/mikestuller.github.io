@@ -1,14 +1,14 @@
 ## midiWorx
 
- * [Overview](#overview)
- * [What is MIDI?](#what-is-midi)
- * [More About Modules](#more-about-modules)
- * [Getting Started](#getting-started)
- * [Navigation](#navigation)
-    * [Workspace Navigation](#workspace-navigation)
-    * [Panel Stack Navigation](#panel-stack-navigation)
- * [The Clock](#the-clock)
- * [Glossary](#glossary)
+   * [Overview](#overview)
+   * [What is MIDI?](#what-is-midi)
+   * [More About Modules](#more-about-modules)
+   * [Getting Started](#getting-started)
+   * [Navigation](#navigation)
+      * [Workspace Navigation](#workspace-navigation)
+      * [Panel Stack Navigation](#panel-stack-navigation)
+   * [The Clock](#the-clock)
+   * [Glossary](#glossary)
 
 ## Overview
 
