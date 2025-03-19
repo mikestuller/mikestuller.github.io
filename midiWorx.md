@@ -61,7 +61,7 @@ Here's what each node button does:
 
 ### Glossary
 
-Control Panel: The part of a module that lets you configure it or view its operation. Control Panels are located in the Panel Stack.
+**Control Panel:** The part of a module that lets you configure it or view its operation. Control Panels are located in the Panel Stack.
 
 Layout: The positions of the nodes in the workspace and the connections between them.
 
