@@ -55,27 +55,26 @@ Here's what each node button does:
 * **Info** Shows information about the selected module
 
 
-### More Details
 
 ### Navigation
 
 **Workspace Navigation:** Press and drag on an empty part of the workspace to move your view of it. Pinch to zoom in our out. Tap on a node to select it. Press and drag on a node to move it. Tap the "Find" button to bring the node of the currently selected module into view and to reset the zoom level.
 
-**Panel Stack Navigation:** TODO
+**Panel Stack Navigation:** Select a module by tapping on its node or on its control panel. The Panel Stack shifts up or down to display the currently selected module. Use the up and down chevron buttons on each control panel to change its position in the Panel Stack. Swipe up or down on the Drag Handle of a control panel to move the entire Panel Stack up or down. Swipe right on the Drag Handle of a control panel to minimize the Panel Stack in order to view more of the workspace. Once minimized, swipe left on a Drag Handle to maximize the Panel Stack.
 
 ### Glossary
 
-**Control Panel:** The part of a module that lets you configure it or view its operation. Control Panels are located in the Panel Stack.
+**Control Panel:** The part of a module that lets you configure it or view its operation. Control panels are located in the Panel Stack.
 
 **Layout:** The positions of the nodes in the workspace and the connections between them.
 
-**Module:** A component that creates, transforms, or otherwise acts on MIDI data. Each module either receives MIDI data, sends it, or both. You connect modules together in order to create something new and powerful. Each module consist of two parts: Its node (which you use to connect to the nodes of other modules) and its Control Panel (which you use to configure the module).
+**Module:** A component that creates, transforms, or otherwise acts on MIDI data. Each module either receives MIDI data, sends it, or both. You connect modules together in order to create something new and powerful. Each module consist of two parts: Its node (which you use to connect to the nodes of other modules) and its control panel (which you use to configure the module).
 
 **MIDI:** "Musical Instrument Digital Interface". MIDI is the standard by which electronic musical components like synthesizers (and midiWorx modules) communicate with each other. MIDI consists of a stream of data describing things like "Note On", "Note Off", "Pitch Bend", etc.
 
 **Node:** The part of a module that is used to connect to other modules. Nodes appear as circles in the workspace. To make a connection, select the node of the module that you want to send MIDI data. Tap on the Connect button. Finally, tap on the node of the module that you want to receive the MIDI data.
 
-**Panel Stack:** The stack of Control Panels on the side of the screen.
+**Panel Stack:** The stack of control panels on the side of the screen.
 
 **Workspace:** The area on which the nodes are placed.
 
