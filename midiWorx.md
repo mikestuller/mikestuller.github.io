@@ -5,8 +5,8 @@
   * [More About Modules](#more-about-modules)
   * [Getting Started](#getting-started)   
   * [Navigation](#navigation)
-  * [-> Workspace Navigation](#workspace-navigation)
-  * [-> Panel Stack Navigation](#panel-stack-navigation)
+  * [&#8594; Workspace Navigation](#workspace-navigation)
+  * [&#8594; Panel Stack Navigation](#panel-stack-navigation)
   * [The Clock](#the-clock)
   * [Glossary](#glossary)
 
