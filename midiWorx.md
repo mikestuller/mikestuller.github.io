@@ -3,7 +3,8 @@
   * [Overview](#overview)
   * [What is MIDI?](#what-is-midi)
   * [More About Modules](#more-about-modules)
-  * [Getting Started](#getting-started)   
+  * [Getting Started](#getting-started)
+  * [Node Buttons](#node-buttons)
   * [Navigation](#navigation)
   * [&#8627; Workspace Navigation](#workspace-navigation)
   * [&#8627;  Panel Stack Navigation](#panel-stack-navigation)
@@ -56,6 +57,12 @@ Select the sending module (the Piano Keyboard) by tapping on its node. You'll se
 
 Now play some notes by tapping on the Piano Keyboard. You should see corresponding Note On and Note Off MIDI messages displayed in the Event Viewer's control panel.
 
+[Home](#midiworx)
+
+### Node Buttons
+
+When a module is selected, the following buttons appear surrounding its node:
+
 <figure>
   <div style="text-align: center;">
   <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" width = "150"> 
@@ -64,7 +71,7 @@ Now play some notes by tapping on the Piano Keyboard. You should see correspondi
 </figure>
 
 
-Here's what each node button does:
+Here's what each button does:
 * **Connect** Allows one module to send MIDI messages to another
 * **Bypass** Bypasses the selected module. MIDI messages received by the selected module will be passed directly to its receivers.
 * **Disconnect** Removes a connection
