@@ -57,7 +57,7 @@ Select the sending module (the Piano Keyboard) by tapping on its node. You'll se
 Now play some notes by tapping on the Piano Keyboard. You should see corresponding Note On and Note Off MIDI messages displayed in the Event Viewer's control panel.
 
 <figure>
-  <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" width = "150"  class="center"> 
+  <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" width = "150"> 
   <figcaption>Node Buttons</figcaption>
 </figure>
 
