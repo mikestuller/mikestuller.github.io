@@ -84,7 +84,7 @@ Select a module by tapping on its node or on its control panel. The Panel Stack 
 
 **Layout:** The positions of the nodes in the workspace and the connections between them.
 
-**Module:** A component that creates, transforms, or otherwise acts on MIDI data. Each module either receives MIDI data, sends it, or both. You connect modules together in order to create something new and powerful. Each module consist of two parts: Its node (which you use to connect to the nodes of other modules) and its control panel (which you use to configure the module).
+**Module:** A component that creates, transforms, or otherwise acts on MIDI data. Each module either receives MIDI data, sends it, or both. You connect modules together in order to create something new and powerful. Each module consists of two parts: its node (which you use to connect to the nodes of other modules) and its control panel (which you use to configure the module).
 
 **MIDI:** "Musical Instrument Digital Interface". MIDI is the standard by which electronic musical components like synthesizers (and midiWorx modules) communicate with each other. MIDI consists of a stream of data describing things like "Note On", "Note Off", "Pitch Bend", etc.
 
