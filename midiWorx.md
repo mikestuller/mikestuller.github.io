@@ -1,7 +1,7 @@
 ## midiWorx
 
  * [Overview](#overview)
- * [What is MIDI?](#what-is-midi?)
+ * [What is MIDI?](#what-is-midi)
  * [More About Modules](#more-about-modules)
  * [Getting Started](#getting-started)
  * [Navigation](#navigation)
