@@ -61,7 +61,7 @@ Now play some notes by tapping on the Piano Keyboard. You should see correspondi
 
 
 <div style="align: left; text-align:center;">
-    <img src="[white.jpg](https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853)" width="150px" />
+    <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" width="150px" />
     <div class="caption" style="width: 150px">Node Buttons</div>
 </div>
 
