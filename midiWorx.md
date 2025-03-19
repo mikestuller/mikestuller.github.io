@@ -32,6 +32,8 @@ MIDI stands for "Musical Instrument Digital Interface". It is the standard proto
 
 Typically, a device like a keyboard or some other "MIDI controller" would be used to generate and transmit MIDI messages to another device, such as a synthesizer. It is up to the synthesizer to generate and play the notes (the actual sounds) with the pitches and velocities specified by the messages.
 
+[Home](#overview)
+
 ### More About Modules
 
 Modules are the building blocks of a midiWorx project. There are modules that generate MIDI messages ("Sources"), modules that consume MIDI messages ("Destinations"), and modules that transform MIDI messages in some way or another ("Modifiers"). Some modules, like the Recorder, are both Sources and Destinations.
