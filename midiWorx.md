@@ -1,5 +1,12 @@
 ## midiWorx
 
+ * [Overview]
+ * [What is MIDI?]
+ * [More About Modules]
+ * [Getting Started]
+ * [Navigation]
+ * [The Clock]
+ * Glossary
 
 ## Overview
 
