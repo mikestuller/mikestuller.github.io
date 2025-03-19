@@ -58,13 +58,13 @@ Now play some notes by tapping on the Piano Keyboard. You should see correspondi
 
 <figure>
   <img src="https://github.com/mikestuller/mikestuller.github.io/assets/97295847/fdfee1cc-f072-4f19-8c57-2c61026fb853" id="nodeButtons" width = "150"> 
-  <style type="text/css">
+  <figcaption>Node Buttons</figcaption>
+   <style type="text/css">
     #nodeButtons {
         display: block;
         margin-left: auto;
         margin-right: auto }
  </style>
-  <figcaption>Node Buttons</figcaption>
 </figure>
 
 Here's what each node button does:
