@@ -72,7 +72,7 @@ When a module is selected, the following buttons appear surrounding its node:
 
 
 Here's what each button does:
-* **Connect** Lets one module send MIDI messages to another. First select the module that will send MIDI data. Tap "Connect" and then tap the node of the module will receive MIDI data.
+* **Connect** Lets one module send MIDI messages to another. First select the module that will send MIDI data. Tap "Connect" and then tap the node of the module will receive MIDI data. A line will appear connecting the two modules.
 * **Bypass** Bypasses the selected module. MIDI messages received by the selected module will be passed directly to its receivers without being acted on by this module.
 * **Disconnect** Removes a connection.
 * **Choose Color** Lets you change the color of the selected module.
