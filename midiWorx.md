@@ -55,12 +55,15 @@ Here's what each node button does:
 * **Info** Shows information about the selected module
 
 
-
 ### Navigation
 
 **Workspace Navigation:** Press and drag on an empty part of the workspace to move your view of it. Pinch to zoom in our out. Tap on a node to select it. Press and drag on a node to move it. Tap the "Find" button to bring the node of the currently selected module into view and to reset the zoom level.
 
 **Panel Stack Navigation:** Select a module by tapping on its node or on its control panel. The Panel Stack shifts up or down to display the currently selected module. Use the up and down chevron buttons on each control panel to change its position in the Panel Stack. Swipe up or down on the Drag Handle of a control panel to move the entire Panel Stack up or down. Swipe right on the Drag Handle of a control panel to minimize the Panel Stack in order to view more of the workspace. Once minimized, swipe left on a Drag Handle to maximize the Panel Stack.
+
+
+### The Clock
+[TODO]
 
 ### Glossary
 
