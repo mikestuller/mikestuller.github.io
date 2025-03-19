@@ -57,7 +57,11 @@ Here's what each node button does:
 
 ### More Details
 
-[TODO]
+### Navigation
+
+**Workspace Navigation:** Press and drag on an empty part of the workspace to move your view of it. Pinch to zoom in our out. Tap on a node to select it. Press and drag on a node to move it. Tap the "Find" button to bring the node of the currently selected module into view and to reset the zoom level.
+
+**Panel Stack Navigation:** TODO
 
 ### Glossary
 
