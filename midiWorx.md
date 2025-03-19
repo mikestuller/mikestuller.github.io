@@ -1,6 +1,6 @@
 ## midiWorx
 
- * [Overview]
+ * [Overview](#Overview)
  * [What is MIDI?]
  * [More About Modules]
  * [Getting Started]
