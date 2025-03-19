@@ -25,7 +25,7 @@ midiWorx consists of many "modules" -- things like MIDI filters, MIDI note gener
 
 Here's an example: You could use a Midi In module to receive notes generated from an external keyboard. Then you could use a Note Splitter module to split the notes into a lower portion and an upper portion. You could then apply an Arpeggiator to only the upper portion, and a Transposer to transpose the the lower portion down an octave. Finally, you could use Midi Out modules to send the lower portion to a sound-generating app and the upper portion to an external synthesizer.
 
-[Outline](#outline)
+[Home](#outline)
 
 ### What is MIDI?
 
@@ -33,7 +33,7 @@ MIDI stands for "Musical Instrument Digital Interface". It is the standard proto
 
 Typically, a device like a keyboard or some other "MIDI controller" would be used to generate and transmit MIDI messages to another device, such as a synthesizer. It is up to the synthesizer to generate and play the notes (the actual sounds) with the pitches and velocities specified by the messages.
 
-[Outline](#outline)
+[Home](#outline)
 
 ### More About Modules
 
@@ -43,7 +43,7 @@ Each module consists of two parts: a rectangular control panel, and a circular "
 
 There is no limit to the number of connections a module can have, although some modules only allow input connections and some other modules only allow output connections.
 
-[Outline](#outline)
+[Home](#outline)
 
 ### Getting Started
 
@@ -70,7 +70,7 @@ Here's what each node button does:
 * **Delete** Deletes the selected module
 * **Info** Shows information about the selected module
 
-[Outline](#outline)
+[Home](#outline)
 
 ### Navigation
 
@@ -82,12 +82,12 @@ Press and drag on an empty part of the workspace to adjust your view of it. Pinc
 
 Select a module by tapping on its node or on its control panel. The Panel Stack automatically shifts up or down to display the currently selected module. Use the up and down chevron buttons on each control panel to change the order of the panels in the Panel Stack. Swipe up or down on the Drag Handle of a control panel to shift the entire Panel Stack up or down. Swipe right on the Drag Handle of a control panel to minimize the Panel Stack in order to view more of the workspace. Once minimized, swipe left on a Drag Handle to maximize the Panel Stack.
 
-[Outline](#outline)
+[Home](#outline)
 
 ### The Clock
 [TODO]
 
-[Outline](#outline)
+[Home](#outline)
 
 ### Glossary
 
@@ -105,4 +105,4 @@ Select a module by tapping on its node or on its control panel. The Panel Stack 
 
 **Workspace:** The area on which the nodes are placed.
 
-[Outline](#outline)
+[Home](#outline)
