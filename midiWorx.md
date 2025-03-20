@@ -96,9 +96,9 @@ Select a module by tapping on its node or on its control panel. The Panel Stack 
 
 ### The Master Clock
 
-Some modules like the Arpeggiator require a timing source. That is the purpose of the Master Clock. The Master Clock can either be internal (generated and controlled by midiWorx) or external (generated and controlled by an external app or hardware device).
+Some modules like the Arpeggiator require a timing source. That is the purpose of the Master Clock. The Master Clock can either be internal (generated and controlled by midiWorx) or external (generated and controlled by another app or external hardware device).
 
-To use an _external_ Master Clock, create a Midi In or a Midi Virtual In module to connect midiWorx to an external app or hardware device. The external app or hardware device must be capable of generating MIDI clock messages (sometimes called "MIDI beat clock"). Then, in the Midi In (or Midi Virtual In) control panel, enable the "Master Clock" switch. The external app or hardware device will now be used as the Master Clock.
+To use an _external_ Master Clock, create a Midi In or a Midi Virtual In module to connect midiWorx to another app or external hardware device. The other app or hardware device must be capable of generating MIDI clock messages (sometimes called "MIDI beat clock"). Then, in the Midi In (or Midi Virtual In) control panel, enable the "Master Clock" switch. The other app or hardware device will now be used as the Master Clock.
 
 If you don't have an external Master Clock configured, an _internal_ Master Clock will automatically be created (if there's not already one) whenever you add a module that needs a Master Clock. In that case, transport controls (Play from Beginning, Play, and Pause) and a Tempo slider will appear at the top of the screen. 
 
