@@ -75,9 +75,9 @@ When a module is selected, the following buttons appear surrounding its node:
 
 | Button | Description |
 | --- | --- |
-| Connect | Lets one module send MIDI messages to another. First select the module that will send MIDI data. Tap "Connect" and then tap the node of the module will receive MIDI data. A line will appear connecting the two modules. |
+| Connect | Lets one module send MIDI messages to another. First select the module that will send MIDI data. Tap the Connect button and then tap the node of the module will receive MIDI data. A line will appear connecting the two modules. |
 | Bypass | Bypasses the selected module. MIDI messages received by the selected module will be passed directly to its receivers without being acted on by this module. | 
-| Disconnect | Removes a connection. Tap "Disconnect", then tap the node of the module you want to disconnect. |
+| Disconnect | Removes a connection. Tap the Disconnect button, then tap the node of the connected module you want to disconnect. |
 | Choose Color | Lets you change the color of the selected module. |
 | Delete | Deletes the selected module from the workspace. |
 | Info | Shows the selected module's name and information about its usage. |
