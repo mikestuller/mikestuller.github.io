@@ -57,6 +57,8 @@ Select the sending module (the Piano Keyboard) by tapping on its node. You'll se
 
 Now play some notes by tapping on the Piano Keyboard. You should see corresponding Note On and Note Off MIDI messages displayed in the Event Viewer's control panel.
 
+Congratulations, you've built your first layout! Try adding other modules and other connections. Have fun!
+
 [Home](#midiworx)
 
 ### Node Buttons
