@@ -79,8 +79,8 @@ When a module is selected, the following buttons appear surrounding its node:
 | Bypass | Bypasses the selected module. MIDI messages received by the selected module will be passed directly to its receivers without being acted on by this module. | 
 | Disconnect | Removes a connection. |
 | Choose Color | Lets you change the color of the selected module. |
-| Delete | Deletes the selected module. |
-| Info | Shows information about the selected module. |
+| Delete | Deletes the selected module from the workspace. |
+| Info | Shows the selected module's name and information about its usage. |
 
 [Home](#midiworx)
 
