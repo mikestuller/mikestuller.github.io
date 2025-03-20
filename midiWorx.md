@@ -99,7 +99,7 @@ Select a module by tapping on its node or on its control panel. The Panel Stack 
 
 Some modules like the Arpeggiator require a timing source. That is the purpose of the Master Clock. The Master Clock can either be internal (generated and controlled by midiWorx) or external (generated and controlled by another app or external hardware device).
 
-To use an _external_ Master Clock, create a Midi In or a Midi Virtual In module to connect midiWorx to another app or external hardware device. The other app or hardware device must be capable of generating MIDI clock messages (sometimes called "MIDI beat clock"). Then, in the Midi In (or Midi Virtual In) control panel, enable the "Master Clock" switch. The other app or hardware device will now be used as the Master Clock.
+To use an _external_ Master Clock, create a Midi In or a Midi Virtual In module to connect midiWorx to another app or external hardware device. The other app or hardware device must be capable of generating MIDI clock messages (sometimes called "MIDI beat clock"). Then, in the Midi In or Midi Virtual In control panel, enable the "Master Clock" switch. The other app or hardware device will now be used as the Master Clock.
 
 If you don't have an external Master Clock configured, an _internal_ Master Clock will automatically be created (if there's not already one) whenever you add a module that needs a Master Clock. In that case, transport controls (Play from Beginning, Play, and Pause) and a Tempo slider will appear at the top of the screen. 
 
@@ -113,7 +113,7 @@ Whether you're using an internal or an external Master Clock, you can only have 
 
 **Layout:** The positions of the nodes in the workspace and the connections between them.
 
-**Module:** A component that creates, transforms, or otherwise acts on MIDI data. Each module either receives MIDI data, sends it, or both. You connect modules together in order to create something new and powerful. Each module consists of two parts: its node (which you use to connect to the nodes of other modules) and its control panel (which you use to configure the module).
+**Module:** A component that creates, transforms, or otherwise acts on MIDI data. Each module either receives MIDI data, sends it, or both. You connect modules together in order to create something new and powerful. Each module consists of two parts: its node, which you use to connect to the nodes of other modules, and its control panel, which you use to configure the module.
 
 **MIDI:** "Musical Instrument Digital Interface". MIDI is the standard by which electronic musical components like synthesizers (and midiWorx modules) communicate with each other. MIDI consists of a stream of data describing things like "Note On", "Note Off", "Pitch Bend", etc.
 
