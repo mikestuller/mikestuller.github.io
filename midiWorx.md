@@ -16,7 +16,7 @@
 midiWorx is a virtual MIDI workbench for iOS. With midiWorx, you can create MIDI messages, modify them, direct them, and more.
 
 midiWorx is:
-  * an aid to creativity, to spark new musical ideas.
+  * an aid to creativity which can spark new musical ideas.
   * a performance tool to enhance the abilities of external hardware or other apps.
   * a bridge to enable other apps and external hardware devices to work with each other.
   * a diagnostic tool to identify problems in an existing MIDI setup.
