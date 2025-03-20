@@ -115,7 +115,7 @@ Whether you're using an internal or an external Master Clock, you can only have 
 
 **Module:** A component that creates, transforms, or otherwise acts on MIDI data. Each module either receives MIDI data, sends it, or both. You connect modules together in order to create something new and powerful. Each module consists of two parts: its node, which you use to connect to the nodes of other modules, and its control panel, which you use to configure the module.
 
-**MIDI:** "Musical Instrument Digital Interface". MIDI is the standard by which electronic musical components like synthesizers (and midiWorx modules) communicate with each other. MIDI consists of a stream of data describing things like "Note On", "Note Off", "Pitch Bend", etc.
+**MIDI:** "Musical Instrument Digital Interface". MIDI is the standard by which electronic musical components like synthesizers and midiWorx modules communicate with each other. MIDI consists of a stream of data describing things like "Note On", "Note Off", "Pitch Bend", etc.
 
 **Node:** The part of a module that is used to connect to other modules. Nodes appear as circles in the workspace. To make a connection, select the node of the module that you want to send MIDI data. Tap on the Connect button. Finally, tap on the node of the module that you want to receive the MIDI data.
 
