@@ -40,7 +40,7 @@ Typically, a device like a keyboard or some other MIDI controller would be used 
 
 Modules are the building blocks of a midiWorx project. There are modules that produce MIDI messages ("Sources"), modules that consume MIDI messages ("Destinations"), and modules that transform MIDI messages in some way or another ("Modifiers"). Some modules, like the Recorder, are both Sources and Destinations.
 
-Each module consists of two parts: a rectangular control panel, and a circular "node". The control panel is where you make adjustments to the various parameters of the module. The node is where you connect the module to other modules. The control panels are grouped together in a stack. You can drag the nodes around to place them wherever you want to.
+Each module consists of two parts: a rectangular control panel in the Panel Stack, and a circular "node" in the Workspace. The control panel is where you make adjustments to the various parameters of the module. The node is where you connect the module to other modules. The control panels are grouped together in a stack. You can drag the nodes around to place them wherever you want to.
 
 There is no limit to the number of connections a module can have, although some modules only allow input connections and some other modules only allow output connections.
 
