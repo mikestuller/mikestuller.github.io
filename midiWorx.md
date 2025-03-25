@@ -92,7 +92,7 @@ Press and drag on an empty part of the workspace to adjust your view of it. Pinc
 
 #### Panel Stack Navigation
 
-Select a module by tapping on its node or on its control panel. The Panel Stack automatically shifts up or down to display the currently selected module. Use the up and down chevron buttons on each control panel to change the order of the panels in the Panel Stack. Swipe up or down on the Drag Handle of a control panel to shift the entire Panel Stack up or down. Swipe right on the Drag Handle of a control panel to minimize the Panel Stack in order to view more of the workspace. Once minimized, swipe left on a Drag Handle to maximize the Panel Stack.
+Select a module by tapping on its node or on its control panel. The Panel Stack automatically shifts up or down to display the currently selected module. Use the up and down chevron buttons ("&#8963;" and "&#8964;") on each control panel to change the order of the panels in the Panel Stack. Swipe up or down on the drag handle (the grid of dots) of a control panel to shift the entire Panel Stack up or down. Swipe right on the drag handle of a control panel to minimize the Panel Stack in order to view more of the workspace. Once minimized, swipe left on a Drag Handle to maximize the Panel Stack.
 
 [Home](#midiworx)
 
