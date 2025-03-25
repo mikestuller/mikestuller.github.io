@@ -28,7 +28,7 @@ Here's an example: You could use a Midi In module to receive notes generated fro
 
 [Home](#midiworx)
 
-### What is MIDI?
+## What is MIDI?
 
 MIDI stands for "Musical Instrument Digital Interface". It is the standard protocol by which electronic music devices like synthesizers communicate with each other. It's important to realize that MIDI does not transmit recorded sounds. Rather, you can think of MIDI messages as being directions such as "play Middle C with velocity 93". (In the MIDI standard, "velocity" refers to how hard or loud a note is played.)
 
@@ -36,7 +36,7 @@ Typically, a device like a keyboard or some other MIDI controller would be used 
 
 [Home](#midiworx)
 
-### More About Modules
+## More About Modules
 
 Modules are the building blocks of a midiWorx project. There are modules that produce MIDI messages ("Sources"), modules that consume MIDI messages ("Destinations"), and modules that transform MIDI messages in some way or another ("Modifiers"). Some modules, like the Recorder, are both Sources and Destinations.
 
@@ -84,19 +84,19 @@ When a module is selected, the following buttons appear surrounding its node:
 
 [Home](#midiworx)
 
-### Navigation
+## Navigation
 
-#### Workspace Navigation
+### Workspace Navigation
 
 Press and drag on an empty part of the Workspace to adjust your view of it. Pinch to zoom in or out. Tap on a node to select it. Press and drag on a node to move it. Tap the "Find" button to bring the currently selected module's node into view and to reset the zoom level.
 
-#### Panel Stack Navigation
+### Panel Stack Navigation
 
 Select a module by tapping on its node or on its control panel. The Panel Stack automatically shifts up or down to display the currently selected module. Use the up and down arrowhead buttons on each control panel to change the order of the panels in the Panel Stack. Swipe up or down on the drag handle (the grid of dots) of a control panel to shift the entire Panel Stack up or down. Swipe right on the drag handle of a control panel to minimize the Panel Stack in order to view more of the Workspace. Once minimized, swipe left on a Drag Handle to maximize the Panel Stack.
 
 [Home](#midiworx)
 
-### The Master Clock
+## The Master Clock
 
 Some modules, like the Arpeggiator or the Simple Sequencer, require a timing source. That is the purpose of the Master Clock. The Master Clock can either be internal, i.e. generated and controlled by midiWorx, or external, i.e. generated and controlled by another app or external hardware device.
 
@@ -108,7 +108,7 @@ Whether you're using an internal or an external Master Clock, you can only have 
 
 [Home](#midiworx)
 
-### Glossary
+## Glossary
 
 **Control Panel:** The part of a module that lets you configure it or view its operation. Control panels are located in the Panel Stack.
 
