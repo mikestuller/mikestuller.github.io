@@ -79,7 +79,7 @@ When a module is selected, the following buttons appear surrounding its node:
 | Bypass | Bypasses the selected module. MIDI messages received by the selected module will be passed directly to its receivers without being acted on by this module. | 
 | Disconnect | Removes a connection. Tap the Disconnect button, then tap the node of the connected module you want to disconnect. |
 | Choose Color | Lets you change the color of the selected module. |
-| Delete | Deletes the selected module from the workspace. |
+| Delete | Deletes the selected module from the Workspace. |
 | Info | Shows the selected module's name and information about its usage. |
 
 [Home](#midiworx)
@@ -88,11 +88,11 @@ When a module is selected, the following buttons appear surrounding its node:
 
 #### Workspace Navigation
 
-Press and drag on an empty part of the workspace to adjust your view of it. Pinch to zoom in or out. Tap on a node to select it. Press and drag on a node to move it. Tap the "Find" button to bring the currently selected module's node into view and to reset the zoom level.
+Press and drag on an empty part of the Workspace to adjust your view of it. Pinch to zoom in or out. Tap on a node to select it. Press and drag on a node to move it. Tap the "Find" button to bring the currently selected module's node into view and to reset the zoom level.
 
 #### Panel Stack Navigation
 
-Select a module by tapping on its node or on its control panel. The Panel Stack automatically shifts up or down to display the currently selected module. Use the up and down arrowhead buttons on each control panel to change the order of the panels in the Panel Stack. Swipe up or down on the drag handle (the grid of dots) of a control panel to shift the entire Panel Stack up or down. Swipe right on the drag handle of a control panel to minimize the Panel Stack in order to view more of the workspace. Once minimized, swipe left on a Drag Handle to maximize the Panel Stack.
+Select a module by tapping on its node or on its control panel. The Panel Stack automatically shifts up or down to display the currently selected module. Use the up and down arrowhead buttons on each control panel to change the order of the panels in the Panel Stack. Swipe up or down on the drag handle (the grid of dots) of a control panel to shift the entire Panel Stack up or down. Swipe right on the drag handle of a control panel to minimize the Panel Stack in order to view more of the Workspace. Once minimized, swipe left on a Drag Handle to maximize the Panel Stack.
 
 [Home](#midiworx)
 
@@ -102,7 +102,7 @@ Some modules, like the Arpeggiator or the Simple Sequencer, require a timing sou
 
 To use an _external_ Master Clock, create a Midi In or a Midi Virtual In module to connect midiWorx to another app or external hardware device. The other app or hardware device must be capable of generating MIDI clock messages (sometimes called "MIDI beat clock"). Then, in the Midi In or Midi Virtual In control panel, enable the "Master Clock" switch. The other app or hardware device will now be used as the Master Clock.
 
-If you don't have an external Master Clock configured, an _internal_ Master Clock will automatically be created if there's not already one whenever you add a module that needs a Master Clock. In that case, transport controls (Play from Beginning, Play, and Pause) and a Tempo slider will appear at the top of the screen. 
+If you don't have an external Master Clock configured, an _internal_ Master Clock will automatically be created whenever you add a module that needs a Master Clock, if there's not already one. In that case, transport controls (Play from Beginning, Play, and Pause) and a Tempo slider will appear at the top of the screen. 
 
 Whether you're using an internal or an external Master Clock, you can only have one Master Clock at a time.
 
@@ -112,16 +112,16 @@ Whether you're using an internal or an external Master Clock, you can only have 
 
 **Control Panel:** The part of a module that lets you configure it or view its operation. Control panels are located in the Panel Stack.
 
-**Layout:** The positions of the nodes in the workspace and the connections between them.
+**Layout:** The positions of the nodes in the Workspace and the connections between them.
 
 **Module:** A component that creates, transforms, or otherwise acts on MIDI data. Each module either receives MIDI data, sends it, or both. You connect modules together in order to create something new and powerful. Each module consists of two parts: its node, which you use to connect to the nodes of other modules, and its control panel, which you use to configure the module.
 
 **MIDI:** "Musical Instrument Digital Interface". MIDI is the standard by which electronic musical components like synthesizers and midiWorx modules communicate with each other. MIDI consists of a stream of data describing things like "Note On", "Note Off", "Pitch Bend", etc.
 
-**Node:** The part of a module that is used to connect to other modules. Nodes appear as circles in the workspace. To make a connection, select the node of the module that you want to send MIDI data. Tap on the Connect button. Finally, tap on the node of the module that you want to receive the MIDI data.
+**Node:** The part of a module that is used to connect to other modules. Nodes appear as circles in the Workspace. To make a connection, select the node of the module that you want to send MIDI data. Tap on the Connect button. Finally, tap on the node of the module that you want to receive the MIDI data.
 
 **Panel Stack:** The stack of control panels on the side of the screen.
 
-**Workspace:** The area on which the nodes are placed.
+**Workspace:** The area where the nodes are located.
 
 [Home](#midiworx)
