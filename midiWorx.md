@@ -48,13 +48,13 @@ There is no limit to the number of connections a module can have, although some 
 
 ### Getting Started
 
-When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the Add Module ("+") icon to display the Module Browser. Here you choose modules to add to your project. For this example, choose the Piano Keyboard module. Then, also add an "Event Viewer" module.
+When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the Add Module ("+") button to display the Module Browser. Here you choose modules to add to your project. For this example, choose the Piano Keyboard module. Then, also add an Event Viewer module.
 
 As mentioned above, you can position each node by dragging it. You can also move all the nodes by dragging the background, or pinch to zoom in and out.
 
 In order to connect two modules, you first have to decide which one will be sending MIDI messages and which one will be receiving the sender's messages. In our example, the Piano Keyboard will send messages to the Event Viewer.
 
-Select the sending module -- the Piano Keyboard -- by tapping on its node. You'll see a ring of buttons appear around the node. Tap the "Connect" button (see below), then complete the connection by tapping the node of the receiving module -- the Event Viewer.
+Select the sending module -- the Piano Keyboard -- by tapping on its node. You'll see a ring of buttons appear around the node. Tap the Connect button (see below), then complete the connection by tapping the node of the receiving module -- the Event Viewer.
 
 Now play some notes by tapping on the Piano Keyboard. You should see corresponding Note On and Note Off MIDI messages displayed in the Event Viewer's control panel.
 
