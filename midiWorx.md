@@ -48,7 +48,7 @@ There is no limit to the number of connections a module can have, although some 
 
 ### Getting Started
 
-When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the "Add Module" ("+") icon to display the Module Browser. Here you choose modules to add to your project. For this example, choose the Piano Keyboard module. Then, also add an "Event Viewer" module.
+When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the Add Module ("+") icon to display the Module Browser. Here you choose modules to add to your project. For this example, choose the Piano Keyboard module. Then, also add an "Event Viewer" module.
 
 As mentioned above, you can position each node by dragging it. You can also move all the nodes by dragging the background, or pinch to zoom in and out.
 
