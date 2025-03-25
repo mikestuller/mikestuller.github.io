@@ -46,7 +46,7 @@ There is no limit to the number of connections a module can have, although some 
 
 [Home](#midiworx)
 
-### Getting Started
+## Getting Started
 
 When you first launch midiWorx, you'll see a nearly blank screen because you haven't created anything yet. Tap the Add Module ("+") button to display the Module Browser. Here you choose modules to add to your project. For this example, choose the Piano Keyboard module. Then, also add an Event Viewer module.
 
